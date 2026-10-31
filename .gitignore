@@ -3,4 +3,4 @@ CLAUDE.md
 RULE.md
 node_modules/
 dist/
-output/
+/output/
